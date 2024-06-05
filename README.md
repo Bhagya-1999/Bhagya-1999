@@ -1,14 +1,25 @@
-# Bhagya-1999
-
-[![@lucifer_bg's Holopin board](https://holopin.io/api/user/board?user=lucifer_bg)](https://holopin.io/@lucifer_bg)
-
-<h1 align="center">Hey, I'm Bhagyashree Guddalli </h1>
-<h3 align="center">A Passionate About Coding </h3>
-
+<h1 align="center"> Hey, I'm Bhagyashree Guddalli </h1>
+<h2 align="center">A Passionate About Coding</h2>
 
 <br> 
+
+<h2 align="left">MY Badge Board</h2>
+
+[![@lucifer_bg's Holopin board](https://holopin.io/api/user/board?user=lucifer_bg)](https://holopin.io/@lucifer_bg)
+<br> 
 <br>
-<br>
+<h2 align="left"> Music + Code = Output</h2>
+
+<div align="center">
+    
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&redirect=true">
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+</picture>
+</a>
+</div>
+
 
 <h3 align="left">My Technical Skills:</h3>
 <p align="left">
